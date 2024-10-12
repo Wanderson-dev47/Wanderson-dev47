@@ -20,8 +20,6 @@ Sou um desenvolvedor Android júnior apaixonado por criar aplicativos móveis qu
 - **Metodologias:**
   - Agile (Scrum)
 
-## 🚀 Projetos
-
 ## 🌱 Aprendizado Contínuo
 
 Estou sempre buscando melhorar minhas habilidades e conhecimentos.
